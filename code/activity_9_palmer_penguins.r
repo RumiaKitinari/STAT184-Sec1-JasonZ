@@ -27,6 +27,6 @@ penguinVisual <- ggplot(penguinDF) +
   ) +
   ylim(32.5, 52.5)  
 
-write.csv(penguins, "penguins.csv", row.names = FALSE)
+getwd()
 # print(penguinVisual)
 # esquisser(data = penguinDF, viewer = "browser")
