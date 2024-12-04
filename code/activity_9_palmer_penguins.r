@@ -27,6 +27,5 @@ penguinVisual <- ggplot(penguinDF) +
   ) +
   ylim(32.5, 52.5)  
 
-getwd()
-# print(penguinVisual)
+print(penguinVisual)
 # esquisser(data = penguinDF, viewer = "browser")

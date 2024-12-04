@@ -1,0 +1,9 @@
+**STAT184-Sec1-JasonZ:** A directory primarily for storing the script “generate ‘Palmer Penguins: Body Mass vs Bill Length, Considering Species’ data visualization,” and the associated data “Palmer Penguins.”
+
+###### Contents
+1. **# files:** 1 (2)
+	1. `activity_9_palmer_penguins.r` → A script which generates the data visualization “Palmer Penguins: Body Mass vs Bill Length, Considering Species.”
+	2. (stored externally) `penguins.csv` → A data frame tracking various attributes and statistics across penguins near the Palmer Station LTER. 
+2. **# folders:** 2 
+	1. `code` → A folder storing the script “`activity_9_palmer_penguins.r`”
+	2. `data` → A folder distinctly not containing the data frame “`penguins.csv`” 
